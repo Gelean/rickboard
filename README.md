@@ -2,7 +2,14 @@
 
 Rickboard is a soundboard application written in Dart and utilizing Flutter
 
-## Links
+## Software, Libraries, and APIs
+
+* [Flutter SDK](https://flutter.dev/docs/get-started/install)
+* [Android Studio and SDK](https://developer.android.com/studio)
+* [iOS Simulator](https://flutter.dev/docs/get-started/install/macos#set-up-the-ios-simulator)
+* [AudioPlayer](https://github.com/rxlabz/audioplayer)
+
+## Links and References
 
 * https://flutter.dev/
 * https://flutter.dev/docs/get-started/codelab
